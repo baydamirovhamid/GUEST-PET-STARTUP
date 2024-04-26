@@ -1,22 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc;
 using animal.adoption.api.DTO.HelperModels.Const;
 using animal.adoption.api.DTO.HelperModels;
 using animal.adoption.api.DTO.ResponseModels.Main;
-using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Model;
 using System.Diagnostics;
 using animal.adoption.api.Services.Interface;
 using animal.adoption.api.DTO.ResponseModels.Inner;
-using animal.adoption.api.Services.Implementation;
 using animal.adoption.api.DTO.RequestModels;
-using animal.adoption.api.Services.Implementation;
-using animal.adoption.api.DTO.HelperModels.Const;
-using animal.adoption.api.DTO.HelperModels;
-using animal.adoption.api.DTO.ResponseModels.Main;
-using animal.adoption.api.Services.Interface;
-using animal.adoption.api.Services.Interface;
-using animal.adoption.api.DTO.RequestModels;
-using animal.adoption.api.DTO.ResponseModels.Inner;
 
 namespace animal.adoption.api.Controllers
 {

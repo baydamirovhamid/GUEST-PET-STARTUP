@@ -4,14 +4,9 @@ using animal.adoption.api.Infrastructure.Repository;
 using animal.adoption.api.Models;
 using animal.adoption.api.Services.Implementation;
 using animal.adoption.api.Services.Interface;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 using NLog.Extensions.Logging;
-using Microsoft.EntityFrameworkCore.SqlServer;
-using Newtonsoft.Json;
-using Microsoft.AspNetCore.Mvc;
 
 
 

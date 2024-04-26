@@ -1,194 +1,194 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\",
+  "WorkspaceRootPath": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\implementation\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\implementation\\otpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\template\\info.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:template\\info.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\template\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:template\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\template\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:template\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\template\\info.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\template\\info.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\template\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\template\\header.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\template\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\template\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\static_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\models\\static_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:models\\otpverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\models\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\infrastructure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\isqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\interface\\isqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\interface\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\isqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\interface\\isqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\interface\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\interface\\iotpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:models\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\interface\\iloggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\static_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:models\\static_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\infrastructure\\animaladoptiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\infrastructure\\animaladoptiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\implementation\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\infrastructure\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\infrastructure\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\implementation\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\migrations\\20240329193012_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\migrations\\20240329193012_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\migrations\\20240329193012_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:migrations\\20240329193012_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\infrastructure\\animaladoptiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:infrastructure\\animaladoptiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\implementation\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\infrastructure\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:infrastructure\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\interface\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\implementation\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\interface\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\ijwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\interface\\ijwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\validationcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\implementation\\validationcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\validationcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\implementation\\validationcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\implementation\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\implementation\\sqlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\implementation\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\ijwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\interface\\ijwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\implementation\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\implementation\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\extensions\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\extensions\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:animal-adoption-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\animal-adoption-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\extensions\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:extensions\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\user_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\models\\user_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\models\\user_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:models\\user_role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\ivalidationcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\services\\interface\\ivalidationcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\services\\interface\\ivalidationcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:services\\interface\\ivalidationcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\migrations\\animaladoptiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\migrations\\animaladoptiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\migrations\\animaladoptiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:migrations\\animaladoptiondbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\extensions\\mappingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\extensions\\mappingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\extensions\\mappingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:extensions\\mappingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\main\\responsesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\dto\\responsemodels\\main\\responsesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\main\\responsesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:dto\\responsemodels\\main\\responsesimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\main\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\dto\\responsemodels\\main\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\main\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:dto\\responsemodels\\main\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\main\\responselisttotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\dto\\responsemodels\\main\\responselisttotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\main\\responselisttotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:dto\\responsemodels\\main\\responselisttotal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\main\\responselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\dto\\responsemodels\\main\\responselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\main\\responselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:dto\\responsemodels\\main\\responselist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\inner\\staticvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\dto\\responsemodels\\inner\\staticvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\inner\\staticvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:dto\\responsemodels\\inner\\staticvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\inner\\statictypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\dto\\responsemodels\\inner\\statictypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\inner\\statictypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:dto\\responsemodels\\inner\\statictypevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\inner\\postvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\dto\\responsemodels\\inner\\postvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\responsemodels\\inner\\postvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:dto\\responsemodels\\inner\\postvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\requestmodels\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\dto\\requestmodels\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\requestmodels\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:dto\\requestmodels\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\helpermodels\\statusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C316689-B512-4EBF-8281-FD4EB3FDA837}|animal-adoption-api\\animal-adoption-api.csproj|solutionrelative:animal-adoption-api\\dto\\helpermodels\\statusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|c:\\users\\99470\\desktop\\startup-adopt me\\animal-adoption-api\\animal-adoption-api\\dto\\helpermodels\\statusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7953F8F0-A286-4B7C-BBE6-2DE443103453}|animal-adoption-api.csproj|solutionrelative:dto\\helpermodels\\statusmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -202,60 +202,60 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PostController.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Controllers\\PostController.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Controllers\\PostController.cs",
-              "RelativeToolTip": "animal-adoption-api\\Controllers\\PostController.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Controllers\\PostController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAUwEwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-09T12:51:00.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "info.html",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\info.html",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Template\\info.html",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\info.html",
-              "RelativeToolTip": "animal-adoption-api\\Template\\info.html",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\info.html",
+              "RelativeDocumentMoniker": "Template\\info.html",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\info.html",
+              "RelativeToolTip": "Template\\info.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-04-09T12:52:16.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "header.html",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\header.html",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Template\\header.html",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\header.html",
-              "RelativeToolTip": "animal-adoption-api\\Template\\header.html",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\header.html",
+              "RelativeDocumentMoniker": "Template\\header.html",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\header.html",
+              "RelativeToolTip": "Template\\header.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-04-09T12:52:15.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "checkout.html",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\checkout.html",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Template\\checkout.html",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\checkout.html",
-              "RelativeToolTip": "animal-adoption-api\\Template\\checkout.html",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\checkout.html",
+              "RelativeDocumentMoniker": "Template\\checkout.html",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Template\\checkout.html",
+              "RelativeToolTip": "Template\\checkout.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-04-09T12:52:12.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "POST.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\POST.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Models\\POST.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\POST.cs",
-              "RelativeToolTip": "animal-adoption-api\\Models\\POST.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\POST.cs",
+              "RelativeDocumentMoniker": "Models\\POST.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\POST.cs",
+              "RelativeToolTip": "Models\\POST.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:34.36Z"
@@ -264,166 +264,167 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OTPService.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\OTPService.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Implementation\\OTPService.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\OTPService.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Implementation\\OTPService.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAsAAAAsAAAA",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\OTPService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\OTPService.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\OTPService.cs",
+              "RelativeToolTip": "Services\\Implementation\\OTPService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T19:09:40.556Z"
+              "WhenOpened": "2024-04-07T19:09:40.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IAuthService.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Interface\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IAuthService.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Interface\\IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Interface\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:07:54.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "animal-adoption-api\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAiwMsAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T19:35:12.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Infrastructure\\Repository\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\Repository\\BaseRepository.cs",
-              "RelativeToolTip": "animal-adoption-api\\Infrastructure\\Repository\\BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\BaseRepository.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAA9wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:14.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CUSTOMER.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\CUSTOMER.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Models\\CUSTOMER.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\CUSTOMER.cs",
-              "RelativeToolTip": "animal-adoption-api\\Models\\CUSTOMER.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\CUSTOMER.cs",
+              "RelativeDocumentMoniker": "Models\\CUSTOMER.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\CUSTOMER.cs",
+              "RelativeToolTip": "Models\\CUSTOMER.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:33.135Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "OTPVerification.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\OTPVerification.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Models\\OTPVerification.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\OTPVerification.cs",
-              "RelativeToolTip": "animal-adoption-api\\Models\\OTPVerification.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\OTPVerification.cs",
+              "RelativeDocumentMoniker": "Models\\OTPVerification.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\OTPVerification.cs",
+              "RelativeToolTip": "Models\\OTPVerification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T19:17:11.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\appsettings.json",
-              "RelativeDocumentMoniker": "animal-adoption-api\\appsettings.json",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\appsettings.json",
-              "RelativeToolTip": "animal-adoption-api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-29T19:53:17.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "ISqlService.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\ISqlService.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Interface\\ISqlService.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\ISqlService.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Interface\\ISqlService.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\ISqlService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ISqlService.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\ISqlService.cs",
+              "RelativeToolTip": "Services\\Interface\\ISqlService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:08:08.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "IOTPService.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IOTPService.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Interface\\IOTPService.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IOTPService.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Interface\\IOTPService.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IOTPService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IOTPService.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IOTPService.cs",
+              "RelativeToolTip": "Services\\Interface\\IOTPService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T19:15:03.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "ILoggerManager.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\ILoggerManager.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Interface\\ILoggerManager.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\ILoggerManager.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Interface\\ILoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\ILoggerManager.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ILoggerManager.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\ILoggerManager.cs",
+              "RelativeToolTip": "Services\\Interface\\ILoggerManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:08:04.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "EmailRequest.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\EmailRequest.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Models\\EmailRequest.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\EmailRequest.cs",
-              "RelativeToolTip": "animal-adoption-api\\Models\\EmailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\EmailRequest.cs",
+              "RelativeDocumentMoniker": "Models\\EmailRequest.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\EmailRequest.cs",
+              "RelativeToolTip": "Models\\EmailRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T19:16:21.094Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "STATIC_DATA.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\STATIC_DATA.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Models\\STATIC_DATA.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\STATIC_DATA.cs",
-              "RelativeToolTip": "animal-adoption-api\\Models\\STATIC_DATA.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\STATIC_DATA.cs",
+              "RelativeDocumentMoniker": "Models\\STATIC_DATA.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\STATIC_DATA.cs",
+              "RelativeToolTip": "Models\\STATIC_DATA.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:39.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 17,
               "Title": "PostService.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\PostService.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Implementation\\PostService.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\PostService.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Implementation\\PostService.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\PostService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\PostService.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\PostService.cs",
+              "RelativeToolTip": "Services\\Implementation\\PostService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:07:28.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "LoggerManager.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\LoggerManager.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Implementation\\LoggerManager.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\LoggerManager.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Implementation\\LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\LoggerManager.cs",
+              "RelativeToolTip": "Services\\Implementation\\LoggerManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:07:26.543Z"
@@ -432,70 +433,70 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "20240329193012_init.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\MIgrations\\20240329193012_init.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\MIgrations\\20240329193012_init.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\MIgrations\\20240329193012_init.cs",
-              "RelativeToolTip": "animal-adoption-api\\MIgrations\\20240329193012_init.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\MIgrations\\20240329193012_init.cs",
+              "RelativeDocumentMoniker": "MIgrations\\20240329193012_init.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\MIgrations\\20240329193012_init.cs",
+              "RelativeToolTip": "MIgrations\\20240329193012_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T20:06:17.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "AnimalAdoptionDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\AnimalAdoptionDbContext.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Infrastructure\\AnimalAdoptionDbContext.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\AnimalAdoptionDbContext.cs",
-              "RelativeToolTip": "animal-adoption-api\\Infrastructure\\AnimalAdoptionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\AnimalAdoptionDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AnimalAdoptionDbContext.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\AnimalAdoptionDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AnimalAdoptionDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:09:17.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Infrastructure\\Repository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\Repository\\IRepository.cs",
-              "RelativeToolTip": "animal-adoption-api\\Infrastructure\\Repository\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Infrastructure\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:16.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "USER.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\USER.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Models\\USER.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\USER.cs",
-              "RelativeToolTip": "animal-adoption-api\\Models\\USER.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\USER.cs",
+              "RelativeDocumentMoniker": "Models\\USER.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\USER.cs",
+              "RelativeToolTip": "Models\\USER.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:40.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "IPostService.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IPostService.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Interface\\IPostService.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IPostService.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Interface\\IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IPostService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IPostService.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IPostService.cs",
+              "RelativeToolTip": "Services\\Interface\\IPostService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:04:24.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 24,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\AuthService.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Implementation\\AuthService.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\AuthService.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Implementation\\AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "Services\\Implementation\\AuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:43.095Z"
@@ -504,10 +505,10 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Program.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Program.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Program.cs",
-              "RelativeToolTip": "animal-adoption-api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAuwDQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:03:12.119Z"
@@ -516,10 +517,10 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "ValidationCommon.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\ValidationCommon.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Implementation\\ValidationCommon.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\ValidationCommon.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Implementation\\ValidationCommon.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\ValidationCommon.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\ValidationCommon.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\ValidationCommon.cs",
+              "RelativeToolTip": "Services\\Implementation\\ValidationCommon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:12:09.678Z"
@@ -528,82 +529,82 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "SqlService.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\SqlService.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Implementation\\SqlService.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\SqlService.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Implementation\\SqlService.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\SqlService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\SqlService.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\SqlService.cs",
+              "RelativeToolTip": "Services\\Implementation\\SqlService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:07:29.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "IJwtHandler.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IJwtHandler.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Interface\\IJwtHandler.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IJwtHandler.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Interface\\IJwtHandler.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IJwtHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IJwtHandler.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IJwtHandler.cs",
+              "RelativeToolTip": "Services\\Interface\\IJwtHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:08:00.055Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "JwtHandler.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\JwtHandler.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Implementation\\JwtHandler.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\JwtHandler.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Implementation\\JwtHandler.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\JwtHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\JwtHandler.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Implementation\\JwtHandler.cs",
+              "RelativeToolTip": "Services\\Implementation\\JwtHandler.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T19:37:10.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "animal-adoption-api.csproj",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj",
-              "RelativeDocumentMoniker": "animal-adoption-api\\animal-adoption-api.csproj",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj",
-              "RelativeToolTip": "animal-adoption-api\\animal-adoption-api.csproj",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj",
+              "RelativeDocumentMoniker": "animal-adoption-api.csproj",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\animal-adoption-api.csproj",
+              "RelativeToolTip": "animal-adoption-api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-29T19:49:51.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "AppConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\AppConfiguration.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Extensions\\AppConfiguration.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\AppConfiguration.cs",
-              "RelativeToolTip": "animal-adoption-api\\Extensions\\AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "Extensions\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\AppConfiguration.cs",
+              "RelativeToolTip": "Extensions\\AppConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:02:13.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Extensions\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "animal-adoption-api\\Extensions\\ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Extensions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Extensions\\ExceptionMiddleware.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:05:42.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "USER_ROLE.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\USER_ROLE.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Models\\USER_ROLE.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\USER_ROLE.cs",
-              "RelativeToolTip": "animal-adoption-api\\Models\\USER_ROLE.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\USER_ROLE.cs",
+              "RelativeDocumentMoniker": "Models\\USER_ROLE.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Models\\USER_ROLE.cs",
+              "RelativeToolTip": "Models\\USER_ROLE.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:41.367Z"
@@ -612,10 +613,10 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "IValidationCommon.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IValidationCommon.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Services\\Interface\\IValidationCommon.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IValidationCommon.cs",
-              "RelativeToolTip": "animal-adoption-api\\Services\\Interface\\IValidationCommon.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IValidationCommon.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IValidationCommon.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Services\\Interface\\IValidationCommon.cs",
+              "RelativeToolTip": "Services\\Interface\\IValidationCommon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:08:13.071Z"
@@ -624,10 +625,10 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "AnimalAdoptionDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\MIgrations\\AnimalAdoptionDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\MIgrations\\AnimalAdoptionDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\MIgrations\\AnimalAdoptionDbContextModelSnapshot.cs",
-              "RelativeToolTip": "animal-adoption-api\\MIgrations\\AnimalAdoptionDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\MIgrations\\AnimalAdoptionDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MIgrations\\AnimalAdoptionDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\MIgrations\\AnimalAdoptionDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MIgrations\\AnimalAdoptionDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:28.679Z"
@@ -636,10 +637,10 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "ServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\ServiceExtensions.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Extensions\\ServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\ServiceExtensions.cs",
-              "RelativeToolTip": "animal-adoption-api\\Extensions\\ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:06:05.815Z"
@@ -648,10 +649,10 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "MappingEntity.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\MappingEntity.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\Extensions\\MappingEntity.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\MappingEntity.cs",
-              "RelativeToolTip": "animal-adoption-api\\Extensions\\MappingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\MappingEntity.cs",
+              "RelativeDocumentMoniker": "Extensions\\MappingEntity.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\Extensions\\MappingEntity.cs",
+              "RelativeToolTip": "Extensions\\MappingEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:05:45.598Z"
@@ -660,10 +661,10 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "ResponseSimple.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseSimple.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseSimple.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseSimple.cs",
-              "RelativeToolTip": "animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseSimple.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseSimple.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseModels\\Main\\ResponseSimple.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseSimple.cs",
+              "RelativeToolTip": "DTO\\ResponseModels\\Main\\ResponseSimple.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:05:40.839Z"
@@ -672,10 +673,10 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "ResponseObject.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseObject.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseObject.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseObject.cs",
-              "RelativeToolTip": "animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseObject.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseObject.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseModels\\Main\\ResponseObject.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseObject.cs",
+              "RelativeToolTip": "DTO\\ResponseModels\\Main\\ResponseObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:05:40.039Z"
@@ -684,10 +685,10 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "ResponseListTotal.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseListTotal.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseListTotal.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseListTotal.cs",
-              "RelativeToolTip": "animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseListTotal.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseListTotal.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseModels\\Main\\ResponseListTotal.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseListTotal.cs",
+              "RelativeToolTip": "DTO\\ResponseModels\\Main\\ResponseListTotal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:05:38.823Z"
@@ -696,10 +697,10 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "ResponseList.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseList.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseList.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseList.cs",
-              "RelativeToolTip": "animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseList.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseList.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseModels\\Main\\ResponseList.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Main\\ResponseList.cs",
+              "RelativeToolTip": "DTO\\ResponseModels\\Main\\ResponseList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:05:37.039Z"
@@ -708,10 +709,10 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "StaticVM.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticVM.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticVM.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticVM.cs",
-              "RelativeToolTip": "animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticVM.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticVM.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseModels\\Inner\\StaticVM.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticVM.cs",
+              "RelativeToolTip": "DTO\\ResponseModels\\Inner\\StaticVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:05:35.687Z"
@@ -720,10 +721,10 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "StaticTypeVM.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticTypeVM.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticTypeVM.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticTypeVM.cs",
-              "RelativeToolTip": "animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticTypeVM.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticTypeVM.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseModels\\Inner\\StaticTypeVM.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\StaticTypeVM.cs",
+              "RelativeToolTip": "DTO\\ResponseModels\\Inner\\StaticTypeVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:05:34.088Z"
@@ -732,10 +733,10 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "PostVM.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\PostVM.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\DTO\\ResponseModels\\Inner\\PostVM.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\PostVM.cs",
-              "RelativeToolTip": "animal-adoption-api\\DTO\\ResponseModels\\Inner\\PostVM.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\PostVM.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseModels\\Inner\\PostVM.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\ResponseModels\\Inner\\PostVM.cs",
+              "RelativeToolTip": "DTO\\ResponseModels\\Inner\\PostVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:05:29.815Z"
@@ -744,10 +745,10 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "PostDto.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\RequestModels\\PostDto.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\DTO\\RequestModels\\PostDto.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\RequestModels\\PostDto.cs",
-              "RelativeToolTip": "animal-adoption-api\\DTO\\RequestModels\\PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\RequestModels\\PostDto.cs",
+              "RelativeDocumentMoniker": "DTO\\RequestModels\\PostDto.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\RequestModels\\PostDto.cs",
+              "RelativeToolTip": "DTO\\RequestModels\\PostDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:04:51.551Z"
@@ -756,10 +757,10 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "StatusModel.cs",
-              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\HelperModels\\StatusModel.cs",
-              "RelativeDocumentMoniker": "animal-adoption-api\\DTO\\HelperModels\\StatusModel.cs",
-              "ToolTip": "C:\\Users\\99470\\Desktop\\Startup-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\HelperModels\\StatusModel.cs",
-              "RelativeToolTip": "animal-adoption-api\\DTO\\HelperModels\\StatusModel.cs",
+              "DocumentMoniker": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\HelperModels\\StatusModel.cs",
+              "RelativeDocumentMoniker": "DTO\\HelperModels\\StatusModel.cs",
+              "ToolTip": "C:\\Users\\99470\\Desktop\\STARTUP-Adopt Me\\animal-adoption-api\\animal-adoption-api\\DTO\\HelperModels\\StatusModel.cs",
+              "RelativeToolTip": "DTO\\HelperModels\\StatusModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T20:02:25.413Z"

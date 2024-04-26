@@ -7,6 +7,5 @@ namespace animal.adoption.api.DTO.ResponseModels.Main
     {
         public StatusModel Status { get; set; }
         public string TraceID { get; set; }
-        public IEnumerable<PET> Data { get; internal set; }
     }
 }

@@ -54,7 +54,6 @@ namespace animal.adoption.api.Services.Implementation
                     response.Status.ErrorCode = ErrorCodes.SYSTEM;
                     response.Status.Message = "Problem baş verdi!";
                 }
-
                 else
                     response.Status.Message = "Uğurla əlavə olundu!";
             }
@@ -62,10 +61,11 @@ namespace animal.adoption.api.Services.Implementation
             {
                 _logger.LogError("TraceId: " + response.TraceID + $", {nameof(RegisterUserAsync)}: " + $"{e}");
                 response.Status.ErrorCode = ErrorCodes.SYSTEM;
-                response.Status.Message = e.Message;
+                response.Status.Message = "Problem baş verdi!";
             }
             return response;
         }
+
 
         public async Task<ResponseObject<JwtResponse>> LoginAsync(ResponseObject<JwtResponse> response, LoginDto model)
         {

@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using animal.adoption.api.DTO.HelperModels;
 using animal.adoption.api.DTO.HelperModels.Const;
@@ -9,8 +8,6 @@ using animal.adoption.api.DTO.RequestModels.Auth;
 using animal.adoption.api.DTO.ResponseModels.Main;
 using animal.adoption.api.Services.Interface;
 using System.Diagnostics;
-using animal.adoption.api.Models;
-using animal.adoption.api.Services.Implementation;
 
 namespace animal.adoption.api.Controllers
 {
@@ -21,17 +18,17 @@ namespace animal.adoption.api.Controllers
         private readonly IAuthService _authService;
         private readonly IValidationCommon _validation;
         private readonly ILoggerManager _logger;
-        private readonly IOTPService _otpService;
+        //private readonly IOTPService _otpService;
 
         public AuthController(
             IAuthService authService,
-            IOTPService otpService,
+            //IOTPService otpService,
             IValidationCommon validation,
             ILoggerManager logger)
         {
             _authService = authService;
             _validation = validation;
-            _otpService = otpService;
+            //_otpService = otpService;
             _logger = logger;
         }
 
@@ -58,10 +55,12 @@ namespace animal.adoption.api.Controllers
             {
                 _logger.LogError("TraceId: " + response.TraceID + $", {nameof(RegisterUserAsync)}: " + $"{e}");
                 response.Status.ErrorCode = ErrorCodes.SYSTEM;
-                response.Status.Message = e.Message;
+                response.Status.Message = "Sistemdə xəta baş verdi.";
                 return StatusCode(StatusCodeModel.INTERNEL_SERVER, response);
             }
         }
+
+
 
 
         [HttpPost]
@@ -180,46 +179,47 @@ namespace animal.adoption.api.Controllers
                 response.Status.Message = "Sistemdə xəta baş verdi.";
                 return StatusCode(StatusCodeModel.INTERNEL_SERVER, response);
             }
-        } 
-          
-
-
-            [HttpPost]
-        [Route("request-otp")]
-            public IActionResult RequestOTP([FromBody] EmailRequest request)
-            {
-                if (!ModelState.IsValid)
-                {
-                    return BadRequest(ModelState);
-                }
-
-                string otp = _otpService.GenerateOTP();
-                _otpService.SendOTP(request.Email, otp);
-                _otpService.AddOTP(request.Email, otp); // Add generated OTP to dictionary for verification
-                return Ok();
-            }
-
-            [HttpPost]
-        [Route("verify-otp")]
-            public IActionResult VerifyOTP([FromBody] OTPVerification verification)
-            {
-                if (!ModelState.IsValid)
-                {
-                    return BadRequest(ModelState);
-                }
-
-                bool isVerified = _otpService.VerifyOTP(verification.Email, verification.OTP);
-                if (isVerified)
-                {
-                    // Authentication successful
-                    return Ok(new { message = "Authentication successful" });
-                }
-                else
-                {
-                    // Authentication failed
-                    return Unauthorized(new { message = "Invalid OTP" });
-                }
-            }
         }
+
+
+
+        //[HttpPost]
+        //[Route("request-otp")]
+        //public IActionResult RequestOTP([FromBody] EmailRequest request)
+        //{
+        //    if (!ModelState.IsValid)
+        //    {
+        //        return BadRequest(ModelState);
+        //    }
+
+        //    string otp = _otpService.GenerateOTP();
+        //    _otpService.SendOTP(request.Email, otp);
+        //    _otpService.AddOTP(request.Email, otp); // Add generated OTP to dictionary for verification
+        //    return Ok();
+        //}
+
+        //[HttpPost]
+        //[Route("verify-otp")]
+        //public IActionResult VerifyOTP([FromBody] OTPVerification verification)
+        //{
+        //    if (!ModelState.IsValid)
+        //    {
+        //        return BadRequest(ModelState);
+        //    }
+
+        //    bool isVerified = _otpService.VerifyOTP(verification.Email, verification.OTP);
+        //    if (isVerified)
+        //    {
+        //        // Authentication successful
+        //        return Ok(new { message = "Authentication successful" });
+        //    }
+        //    else
+        //    {
+        //        // Authentication failed
+        //        return Unauthorized(new { message = "Invalid OTP" });
+        //    }
+        //}
     }
+}
+
 
