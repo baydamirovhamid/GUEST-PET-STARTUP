@@ -1,9 +1,7 @@
 ﻿using AutoMapper;
 using animal.adoption.api.Services.Interface;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.EntityFrameworkCore;
 using System.Web;
-
 using animal.adoption.api.Infrastructure.Repository;
 using animal.adoption.api.Extensions;
 using animal.adoption.api.DTO.ResponseModels.Main;
@@ -71,19 +69,15 @@ namespace animal.adoption.api.Services.Implementation
         {
             try
             {
-                var user = await _userManager.FindByEmailAsync(model.UserName);
+                var user = await _userManager.FindByEmailAsync(model.Email); // axtarishi findbyEmail ile verirsinizse model.Email ile axtarish ede bilersiz
                 if (user == null)
                 {
-                    user = await _userManager.FindByNameAsync(model.UserName);
-                    if(user == null)
-                    {
+                                      
                         response.Status.ErrorCode = ErrorCodes.AUTH;
-                        response.Status.Message = "İstifadəçi adı və ya şifrə yanlışdır!";
+                        response.Status.Message = "Bele bir istifadəçi tapilmadi!";
                         return response;
-                    }
-                  
-                }
-              
+                                    }
+
                 var result = await _userManager.CheckPasswordAsync(user, model.Password);
                 if (!result)
                 {
@@ -97,8 +91,14 @@ namespace animal.adoption.api.Services.Implementation
                     response.Status.Message = "Daxil olmaq mümkün olmadı!";
                     return response;
                 }
-                var claims = _mapper.Map<JwtCustomClaims>(user);
-                response.Response = _jwtHandler.CreateToken(claims);
+
+                var signInResult = await _signInManager.PasswordSignInAsync(user, model.Password,true, true);
+                if (signInResult.Succeeded)
+                {
+                    var claims = _mapper.Map<JwtCustomClaims>(user);
+                    response.Response = _jwtHandler.CreateToken(claims);
+                    response.Status.Message = "Uğurla giriş olundu!";
+                }
             }
             catch (Exception e)
             {
@@ -205,3 +205,110 @@ namespace animal.adoption.api.Services.Implementation
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,9 +1,9 @@
 ﻿using animal.adoption.api.Services.Implementation;
-using animal.adoption.api.Services.Interface;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using animal.adoption.api.Services.Interface;
 
 namespace animal.adoption.api.Extensions
 {

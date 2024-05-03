@@ -60,9 +60,6 @@ namespace animal.adoption.api.Controllers
             }
         }
 
-
-
-
         [HttpPost]
         [Route("login-user")]
         public async Task<IActionResult> LoginUserAsync(LoginDto model)
@@ -180,46 +177,113 @@ namespace animal.adoption.api.Controllers
                 return StatusCode(StatusCodeModel.INTERNEL_SERVER, response);
             }
         }
-
-
-
-        //[HttpPost]
-        //[Route("request-otp")]
-        //public IActionResult RequestOTP([FromBody] EmailRequest request)
-        //{
-        //    if (!ModelState.IsValid)
-        //    {
-        //        return BadRequest(ModelState);
-        //    }
-
-        //    string otp = _otpService.GenerateOTP();
-        //    _otpService.SendOTP(request.Email, otp);
-        //    _otpService.AddOTP(request.Email, otp); // Add generated OTP to dictionary for verification
-        //    return Ok();
-        //}
-
-        //[HttpPost]
-        //[Route("verify-otp")]
-        //public IActionResult VerifyOTP([FromBody] OTPVerification verification)
-        //{
-        //    if (!ModelState.IsValid)
-        //    {
-        //        return BadRequest(ModelState);
-        //    }
-
-        //    bool isVerified = _otpService.VerifyOTP(verification.Email, verification.OTP);
-        //    if (isVerified)
-        //    {
-        //        // Authentication successful
-        //        return Ok(new { message = "Authentication successful" });
-        //    }
-        //    else
-        //    {
-        //        // Authentication failed
-        //        return Unauthorized(new { message = "Invalid OTP" });
-        //    }
-        //}
     }
 }
+
+//[HttpPost]
+//[Route("request-otp")]
+//public IActionResult RequestOTP([FromBody] EmailRequest request)
+//{
+//    if (!ModelState.IsValid)
+//    {
+//        return BadRequest(ModelState);
+//    }
+
+//    string otp = _otpService.GenerateOTP();
+//    _otpService.SendOTP(request.Email, otp);
+//    _otpService.AddOTP(request.Email, otp); // Add generated OTP to dictionary for verification
+//    return Ok();
+//}
+
+//[HttpPost]
+//[Route("verify-otp")]
+//public IActionResult VerifyOTP([FromBody] OTPVerification verification)
+//{
+//    if (!ModelState.IsValid)
+//    {
+//        return BadRequest(ModelState);
+//    }
+
+//    bool isVerified = _otpService.VerifyOTP(verification.Email, verification.OTP);
+//    if (isVerified)
+//    {
+//        // Authentication successful
+//        return Ok(new { message = "Authentication successful" });
+//    }
+//    else
+//    {
+//        // Authentication failed
+//        return Unauthorized(new { message = "Invalid OTP" });
+//    }
+//}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -8,7 +8,7 @@ using animal.adoption.api.Infrastructure;
 
 #nullable disable
 
-namespace animal_adoption_api.Migrations
+namespace animal.adoption.api.Migrations
 {
     [DbContext(typeof(AnimalAdoptionDbContext))]
     partial class AnimalAdoptionDbContextModelSnapshot : ModelSnapshot
@@ -125,49 +125,6 @@ namespace animal_adoption_api.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("animal.adoption.api.Models.EmailRequest", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasColumnName("id");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)")
-                        .HasColumnName("email");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("email_request");
-                });
-
-            modelBuilder.Entity("animal.adoption.api.Models.OTPVerification", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasColumnName("id");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)")
-                        .HasColumnName("email");
-
-                    b.Property<string>("OTP")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)")
-                        .HasColumnName("otp");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("otp_verification");
-                });
-
             modelBuilder.Entity("animal.adoption.api.Models.PET", b =>
                 {
                     b.Property<int>("Id")
@@ -193,8 +150,8 @@ namespace animal_adoption_api.Migrations
                         .HasColumnType("nvarchar(max)")
                         .HasColumnName("created_by");
 
-                    b.Property<string>("HairLength")
-                        .HasColumnType("nvarchar(max)")
+                    b.Property<int?>("Hair")
+                        .HasColumnType("int")
                         .HasColumnName("hair_length");
 
                     b.Property<string>("Name")

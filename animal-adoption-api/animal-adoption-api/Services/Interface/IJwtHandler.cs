@@ -1,11 +1,9 @@
-﻿using animal.adoption.api.DTO.HelperModels;
-using animal.adoption.api.DTO.HelperModels.Jwt;
-using animal.adoption.api.Models;
+﻿using animal.adoption.api.DTO.HelperModels.Jwt;
 
 namespace animal.adoption.api.Services.Interface
 {
     public interface IJwtHandler
     {
-        JwtResponse CreateToken(JwtCustomClaims claims);
+        JwtResponse CreateToken(JwtCustomClaims model);
     }
 }

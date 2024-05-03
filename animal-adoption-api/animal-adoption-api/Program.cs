@@ -4,16 +4,19 @@ using animal.adoption.api.Infrastructure.Repository;
 using animal.adoption.api.Models;
 using animal.adoption.api.Services.Implementation;
 using animal.adoption.api.Services.Interface;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using NLog.Extensions.Logging;
+using System.Text;
 
 
 
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
 
-// Add services to the container...
+
 builder.Services.AddControllers().AddNewtonsoftJson();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -31,7 +34,6 @@ builder.Services.AddTransient<IAuthService, AuthService>();
 builder.Services.AddTransient<IPostService, PostService>();
 builder.Services.AddTransient<IPetService, PetService>();
 
-   
 
 builder.Services.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
 
@@ -46,7 +48,7 @@ builder.Services.AddIdentity<USER, USER_ROLE>(options =>
 .AddEntityFrameworkStores<AnimalAdoptionDbContext>()
 .AddDefaultTokenProviders();
 
-//Logs
+
 builder.Host.ConfigureLogging((hostingContext, logging) =>
 {
     logging.AddConfiguration(hostingContext.Configuration.GetSection("Logging"));
@@ -59,7 +61,7 @@ builder.Host.ConfigureLogging((hostingContext, logging) =>
 var app = builder.Build();
 AppContext.SetSwitch("SqlServer.EnableLegacyTimestampBehavior", true);
 
-// Configure the HTTP request pipeline.
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

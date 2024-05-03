@@ -5,7 +5,7 @@ namespace animal.adoption.api.Models
 {
     public class CUSTOMER
 
-    //a
+    
     {
         [Column("id"), Key]
         public int Id { get; set; }
